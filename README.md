@@ -29,7 +29,7 @@ curl -I http://172.24.70.169:631
 ```
 
 ```
-HTTP/1.1 403 Interdit
+HTTP/1.1 403 Forbidden
 Connection: close
 Content-Language: fr_FR
 Content-Length: 368
